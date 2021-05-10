@@ -1,1 +1,1 @@
-# python_trainings
+# Repository for the my dear python_trainings
